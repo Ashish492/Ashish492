@@ -5,11 +5,11 @@
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ashish shrestha</h1>
-<h3 align="center">A passionate mern stack developer from Nepal</h3>
+<h3 align="center">A passionate full stack developer from Nepal</h3>
 
 - 🌱 I’m currently learning **nest js**
 
-- 💬 Ask me about **react express**
+- 💬 Ask me about **react express Angular**
 
 - 📫 How to reach me **ashishshrestha492@gmail.com**
 <h3 align="left">Connect with me:</h3>
